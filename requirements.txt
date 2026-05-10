@@ -1,10 +1,5 @@
 streamlit
 opencv-python
-matplotlib
-scikit-image
-scipy
 scikit-learn
-mtcnn
-fer
-mediapipe
-pyspark
+matplotlib
+pandas
